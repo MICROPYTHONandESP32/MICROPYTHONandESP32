@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MICROPYTHONandESP32
+- 👀 I’m interested in program Ming (python and C)
+- 🌱 I’m curently learning micropython.
